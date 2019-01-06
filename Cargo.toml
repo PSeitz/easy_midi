@@ -1,0 +1,9 @@
+[package]
+name = "easy_midi"
+version = "0.1.0"
+authors = ["Pascal Seitz <pascal.seitz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nom-midi = "0.2.0"
+ghakuf = "0.5.1"
